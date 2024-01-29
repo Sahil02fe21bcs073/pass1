@@ -1,0 +1,4 @@
+JAY	12
+FIVE	18
+CHARZ	1b
+C1	1c
